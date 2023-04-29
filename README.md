@@ -1,4 +1,4 @@
-# real-time-socket.io
+## real-time-socket.io
 Description: This project is a simple chat application built using Socket.IO and ExpressJS. Users can connect to the server and send messages in real-time to all connected users. The project includes both client-side and server-side code, and can be easily deployed to a web server.
 
 # Installation
